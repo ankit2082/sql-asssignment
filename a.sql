@@ -1,0 +1,5 @@
+insert into salesman values(102 , Nail Knite | Paris    |       0.13)
+insert into salesman values(105 , Pit Alex   | London   |       0.11)
+insert into salesman values(106 , Mc Lyon    | Paris    |       0.14)
+insert into salesman values(107 , Paul Adam  | Rome     |       0.13)
+insert into salesman values(103 , Lauson Hen | San Jose |       0.12)
